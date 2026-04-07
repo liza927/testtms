@@ -3,6 +3,7 @@
 <html>
 <body>
 <h2>Оставить заявку</h2>
+
 <%--@elvariable id="errorMessage" type=""--%>
 <c:if test="${not empty errorMessage}"><%--@elvariable id="errorMessage" type=""--%>
 <p style="color: red;">${errorMessage}</p>

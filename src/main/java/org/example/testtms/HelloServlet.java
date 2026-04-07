@@ -28,5 +28,4 @@ public class HelloServlet extends HttpServlet {
             resp.sendRedirect("success.jsp");
         }
     }
-
 }

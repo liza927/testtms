@@ -3,7 +3,6 @@
 <html>
 <body>
 <h2>Заявка успешно сохранена!</h2>
-
 <p>
     <strong> Имя: </strong>
     <%--@elvariable id="savedName" type=""--%>
